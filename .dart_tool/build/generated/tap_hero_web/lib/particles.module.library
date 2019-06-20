@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web_ui|lib/ui.dart","flutter_web|lib/material.dart","flutter_web|lib/services.dart","tap_hero_web|lib/simple_animations_package.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","typed_data","math"],"hasMain":false}

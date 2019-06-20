@@ -1,0 +1,46 @@
+[
+  {
+    "family": "Roboto",
+    "fonts": [
+      {
+        "asset": "fonts/Roboto-Regular.ttf"
+      },
+      {
+        "asset": "fonts/Roboto-Thin.ttf",
+        "weight": 300
+      },
+      {
+        "asset": "fonts/Roboto-Light.ttf",
+        "weight": 400
+      },
+      {
+        "asset": "fonts/Roboto-Medium.ttf",
+        "weight": 500
+      },
+      {
+        "asset": "fonts/RobotoCondensed-Bold.ttf",
+        "weight": 700
+      },
+      {
+        "asset": "fonts/Roboto-Black.ttf",
+        "weight": 800
+      }
+    ]
+  },
+  {
+    "family": "Gameplay",
+    "fonts": [
+      {
+        "asset": "fonts/gameplay.ttf"
+      }
+    ]
+  },
+  {
+    "family": "MaterialIcons",
+    "fonts": [
+      {
+        "asset": "fonts/MaterialIcons-Regular.ttf"
+      }
+    ]
+  }
+]
