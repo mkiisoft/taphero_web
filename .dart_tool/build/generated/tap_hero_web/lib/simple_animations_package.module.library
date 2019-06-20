@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/widgets.dart","flutter_web|lib/scheduler.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["math"],"hasMain":false}

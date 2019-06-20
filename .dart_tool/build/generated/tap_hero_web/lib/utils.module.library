@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/material.dart","tap_hero_web|lib/powerups.dart","tap_hero_web|lib/bosses.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

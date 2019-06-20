@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web_ui|lib/ui.dart","tap_hero_web|lib/main.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":true}

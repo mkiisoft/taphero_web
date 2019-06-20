@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/material.dart","tap_hero_web|lib/route.dart","tap_hero_web|lib/button.dart","tap_hero_web|lib/flutter_html.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["html"],"hasMain":false}
