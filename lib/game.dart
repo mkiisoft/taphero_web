@@ -678,7 +678,7 @@ class _GameState extends State<Game> with WidgetsBindingObserver, TickerProvider
                     size: width(context) / 10,
                     color: Color(0xFFCA3034),
                     onPressed: () {
-                      Navigator.of(context).pop();
+                      Navigator.of(context).pushReplacement(Welcome.route());
                     },
                   ),
                   Padding(
